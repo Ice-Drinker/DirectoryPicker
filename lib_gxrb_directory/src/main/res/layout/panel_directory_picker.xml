@@ -18,12 +18,12 @@
         </LinearLayout>
     </HorizontalScrollView>
 
-    <include layout="@layout/rb_ui_vertical_divider" />
+    <include layout="@layout/directory_ui_vertical_divider" />
 
     <ListView
         android:id="@+id/lv_directory"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:divider="@color/rb_vertical_divider"
+        android:divider="@color/directory_vertical_divider"
         android:dividerHeight="0.6dp" />
 </LinearLayout>

@@ -2,4 +2,5 @@
 <resources>
     <color name="directory_path_text_gray">#8E8E8E</color>
     <color name="directory_text_black">#222222</color>
+    <color name="directory_vertical_divider">#EAEAEA</color>
 </resources>
